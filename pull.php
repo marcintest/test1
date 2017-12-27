@@ -1,6 +1,6 @@
 <?php
 
-echo 'pull';
+echo 'pull2';
 
 
 ?>
